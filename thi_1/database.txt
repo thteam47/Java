@@ -1,0 +1,9 @@
+1$Vip$Ha Noi$Trong
+2$Thuong$Ha Noi$Khong
+3$Vip$Ha Noi$Khong
+4$Thuong$Ha Noi$Trong
+5$Vip$Ha Noi$Khong
+6$Cao Cap$Ha Noi$Trong
+7$Cao cap$Ha Noi$Khong
+8$Vip$Ha Noi$Trong
+9$Thuong$Ha Noi$Khong

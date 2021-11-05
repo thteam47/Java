@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="learn1.jnlp">
+  <information>
+    <title>learn1</title>
+    <vendor>Administrator</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="learn1.jar" size="2197" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="learn1.Learn1"  name="learn1" />
+  <update check="always"/>
+</jnlp>

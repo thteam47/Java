@@ -1,0 +1,2 @@
+MaNV;Ho;Ten;Phai;Tuoi;TienLuong
+18012123;Nguyen;Minh Tho;false;21;8000000.0
