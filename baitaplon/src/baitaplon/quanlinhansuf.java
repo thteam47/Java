@@ -61,7 +61,6 @@ public class quanlinhansuf extends javax.swing.JFrame {
         jMenuItem3.setText("jMenuItem3");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
-        setMaximumSize(new java.awt.Dimension(1338, 752));
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel1.setText("Hệ Thống Quản Lí Nhân Sự");
